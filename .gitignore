@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+!gradle-wrapper.jar
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Android Studio
+.cxx/
+.externalNativeBuild/
+captures/
+output.json
+
+# Sign-in keys
+*.keystore
+*.jks
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Emulator files
+*.hprof
+
+# Kotlin compile caches
+.kotlinc/
+
+# VSCode
+.vscode/
