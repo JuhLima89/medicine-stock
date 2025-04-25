@@ -1,4 +1,4 @@
-# Medicinestock
+# Estoque de Medicamentos
 
 Medicinestock é um aplicativo Android desenvolvido com **Jetpack Compose** para gerenciar o estoque de medicamentos. O app permite o registro, visualização e controle de medicamentos, com funcionalidades como adição, remoção e atualização de quantidade dos produtos.
 
